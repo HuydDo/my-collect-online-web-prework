@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  
 def my_collect(array) 
   i = 0 
@@ -10,16 +10,7 @@ def my_collect(array)
   end
   new_arr
 end
-=======
-def my_collect(array) 
-  i = 0 
-  
-  while i < array.length 
-    yield 
-    i +=1 
-  end
-  
-end 
->>>>>>> 2fc4e59623343316f709eb60658f8d5688afd9cc
+ 
+
 
 
